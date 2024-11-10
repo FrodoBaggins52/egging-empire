@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(4, 105, 173);
+    background-color: rgb(59, 59, 59);
 }
 
-.pan {
+#pan {
     position: absolute;
     top: 30%;
     left: 20%;
