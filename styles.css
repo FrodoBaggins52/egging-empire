@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(4, 105, 173);
+}
+
+.pan {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    width: 512;
+    height: 512;
+    cursor: pointer;
+}
